@@ -10,5 +10,7 @@ class Solver
         result
       end
     end
-  end
+
+    
+end
   

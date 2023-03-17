@@ -13,4 +13,10 @@ describe Solver do
       expect { subject.factorial(-5) }.to raise_error(ArgumentError)
     end
   end
+
+  context 'While testing the reverse method' do
+    it 'returns the reverse of the string' do
+        expect(subject.reverse('hello')).to eq('olleh')
+    end
+  end
 end
