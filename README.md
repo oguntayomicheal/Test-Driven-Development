@@ -78,7 +78,7 @@ To run tests, run the following command:
 Example command:
 
 ```sh
-  rspec rspec ./spec/solver_spec.rb
+  rspec ./spec/solver_spec.rb
 ```
 
 <!-- AUTHORS -->
@@ -91,7 +91,6 @@ Example command:
 - Twitter: [@OguntayoMicheal](https://twitter.com/Oguns_micky)
 - LinkedIn: [@OguntayoMicheal](https://www.linkedin.com/in/ogunsmicky/)
 
-👤 **Author 2**
 👤 **Alelign Ayana**
 
 - GitHub: [@atatm](https://github.com/atatm)
