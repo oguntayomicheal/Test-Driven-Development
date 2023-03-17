@@ -92,6 +92,13 @@ Example command:
 - LinkedIn: [@OguntayoMicheal](https://www.linkedin.com/in/ogunsmicky/)
 
 👤 **Author 2**
+👤 **Alelign Ayana**
+
+- GitHub: [@atatm](https://github.com/atatm)
+- Twitter: [@_alelignayana](https://twitter.com/@alelign_ayana)
+- LinkedIn: [Alelign Ayana](https://www.linkedin.com/in/alelign-ayana/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
