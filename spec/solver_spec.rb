@@ -19,4 +19,22 @@ describe Solver do
         expect(subject.reverse('hello')).to eq('olleh')
     end
   end
+
+  context 'While testing the fizzbuzz method' do
+    it 'divisible by 3 returns fizz' do
+        expect(subject.fizzbuzz(9)).to eq('fizz')
+    end
+
+    it 'divisible by 5 returns buzz' do
+        expect(subject.fizzbuzz(10)).to eq('buzz')
+    end
+
+    it 'divisible by 3 and 5 returns fizzbuzz' do
+        expect(subject.fizzbuzz(15)).to eq('fizzbuzz')
+    end
+
+    it 'NOT divisible by 3 or 5 or both returns integer as string' do
+        expect(subject.fizzbuzz(7)).to eq('7')
+    end
+  end
 end
